@@ -133,7 +133,7 @@ a.p:hover span {
 
 	
 <br><br><p>おまけ、背景原画</p>
-<a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" data-lightbox="abc"><img src="https://dorikawa.github.io/20210704_Utsunomiya_swim/20210704_002.JPG" alt="サンプル画像" width="560" /></a>
+<a href="[https://dorikawa.github.io/20210704_Utsunomiya_swim/20210704_002.JPG](https://github.com/dorikawa/20210704_Utsunomiya_swim/blob/main/20210704_002.JPG)" data-lightbox="abc"><img src="[https://dorikawa.github.io/20210704_Utsunomiya_swim/20210704_002.JPG](https://github.com/dorikawa/20210704_Utsunomiya_swim/blob/main/20210704_002.JPG)" alt="サンプル画像" width="560" /></a>
 
 
 
