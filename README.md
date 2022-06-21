@@ -127,9 +127,7 @@ a.p:hover span {
 <br><br><p>50_Free, 4コースじゅりちゃん１位！</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>50_Free, 4コースあかねちゃん１位！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DXHMFTaaQ9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 	
 <br><br><p>おまけ、背景原画</p>
