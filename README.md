@@ -115,7 +115,7 @@ a.p:hover span {
 	
 	
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~asano</marquee></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2022/06/26 @ドリームかわち !!!</marquee></span></h1>
 
 	
@@ -143,7 +143,7 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
- Copyright 2021/07/04 S.Hada
+ Copyright 2022/06/26 Asano
  </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
