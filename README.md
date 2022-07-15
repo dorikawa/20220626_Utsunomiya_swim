@@ -141,7 +141,7 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
- Copyright 2022/06/26 Asano
+ <span class="snow">Copyright 2022/06/26 Asano</span>
  </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
