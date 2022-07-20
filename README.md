@@ -119,13 +119,57 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2022/06/26 @ドリームかわち !!!</marquee></span></h1>
 
 	
-<br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
-動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>
+<br><p>＊＊＊＊＊＊＊＊＊＊、<br>＊＊＊＊＊＊＊＊＊＊、。<br>＊＊＊＊＊＊＊＊＊＊、 m(_ _)m<br>
+＊＊＊＊＊＊＊＊＊＊、。<br>＊＊＊＊＊＊＊＊＊＊、。</p>
 	
 
 
-<br><br><p>50_Free, 4コースじゅりちゃん１位！</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TphLZb50_zE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3l_nGYpLDEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mEvMYkzLguY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dq8beZ1XFDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TREIgrGH-84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
+
+
+<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
