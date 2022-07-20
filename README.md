@@ -115,51 +115,49 @@ a.p:hover span {
 	
 	
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
-<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~asano</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 宇都宮市民水泳大会 2022/06/26 @ドリームかわち !!!</marquee></span></h1>
 
 	
-<br><p>＊＊＊＊＊＊＊＊＊＊、<br>＊＊＊＊＊＊＊＊＊＊、。<br>＊＊＊＊＊＊＊＊＊＊、 m(_ _)m<br>
-＊＊＊＊＊＊＊＊＊＊、。<br>＊＊＊＊＊＊＊＊＊＊、。</p>
+<br><p>ビデオ撮影とYouTubeアップは浅野さん、HP立ち上げは羽田が担当しました。</p>
 	
 
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>200コメ、男の子、一般女子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3l_nGYpLDEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>200フリーリレー、一般男女</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mEvMYkzLguY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>100バタ、男の子、女の子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dq8beZ1XFDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>100バック、一般男女</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TREIgrGH-84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>100ブレ、一般女子、一般男子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggv7H9eaIE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>100フリー、一般男子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9h2batl8u3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>100フリー、女の子、男の子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQ-MIx2jyHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>200フリーリレー、一般男女</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EPFGFjQzQ9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>100コメ、女の子、男の子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ujPybvma3TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>200ブレ、一般男子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JP7jvSJCBbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>200フリー、一般男子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlBtPv2gibE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br><br><p>＊＊＊＊＊＊＊＊＊！</p>
+<br><br><p>50バッタ、男の子、一般男子</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PbURnP1aWQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
@@ -177,7 +175,7 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
- <span class="snow">Copyright 2022/07/** Asano</span>
+ <span class="snow">Copyright 2022/07/20 S,Hada</span>
  </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
