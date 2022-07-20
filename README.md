@@ -175,7 +175,7 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
- <span class="snow">Copyright 2022/07/20 S,Hada</span>
+ <span class="snow">Copyright 2022/07/20 K.Asano, S.Hada</span>
  </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
