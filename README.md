@@ -112,7 +112,8 @@ a.p:hover span {
   より見やすくご覧頂けます。
 </p>
     
-<p><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/">20210704_Utsunomiya_swim</a>>2022年宇都宮市民大会</p>
+<p><a href="https://dorikawa.github.io/20210704_Utsunomiya_swim/">20210704_Utsunomiya_swim</a>>2022年宇都宮市民大会><a href="https://github.com/dorikawa/20220724_ekihigashi_pool/">20220724_ekihigashi_pool</a></p></p>
+
 	
 <p align="left"> <img src="qr.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
